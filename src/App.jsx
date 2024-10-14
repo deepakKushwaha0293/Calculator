@@ -18,8 +18,8 @@ function App() {
     else{
       let newDisplayValue = displayVal + buttontext;
       setdisplayVal(newDisplayValue)
-    } 
-  }
+    }  
+  }  
 
   return (
     <>
