@@ -10,7 +10,7 @@ function App() {
     if(buttontext==='C'){
         setdisplayVal('')
     }
-    else if (buttontext==='='){
+    else if (buttontext==='='){ 
       const result = eval(displayVal);
       setdisplayVal(result)
 
